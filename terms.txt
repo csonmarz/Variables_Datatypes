@@ -1,0 +1,61 @@
+● Variable:
+- A variable is a named box, used to hold a value (data).
+
+● Assignment:
+- Assignmentis the eqaul sign
+
+
+● Statement:
+- X=5 
+
+
+
+● Expression:
+A expression is a combonation of numbers variables etc. Expression als are very similar to phares.
+
+
+● Integer:
+- An integer is a whole number value, like 1,999,0 or -25
+
+
+● Float:
+- A float is a floating-point number, which is a real number,
+like 98.6, 0.0001, or -666.667
+
+
+● String:
+- A string is a sequence of characte, like "Hello" or 
+"The forecast for today is sunny with highs of 75F".
+
+
+● Literal:
+- Litteral is what the user puts in the code 
+
+
+● Boolean:
+- A Boolean refers to a quantity that has only two possible 
+values, true or false
+
+
+
+● Identifier:
+- A name created by a programmer for an item like a variable 
+or function is called a Identifier. 
+
+
+● Camel Case:
+- Camel Case: Lower camel case abuts multiple words
+capitalizing each word except the first, as in numApples
+or peopleonBus. 
+
+
+
+● Reserved Words:
+- Reserved words(or keywords) is a word that is part of the 
+language, like integer, Get, or Put.
+
+
+
+● Naming Convention:
+- Naming Convention is a set of style guidelines defined by a 
+company, team, teacher, etc., for naming variables
